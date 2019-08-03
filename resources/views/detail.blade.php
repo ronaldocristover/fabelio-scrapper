@@ -52,7 +52,7 @@
       <table class="table table-bordered">
     <tbody>
       <tr>
-        <td>URL</td>
+        <td>Link</td>
         <td><a href="{{ $data->url}}" > {{ $data->url}}</a></td>
       </tr>
       <tr>
